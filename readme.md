@@ -1,5 +1,7 @@
 
-#Pagina html con bostrap
+Pagina html con bostrap
+##Pagina html con bostrap
+## Pagina html con bostrap
 Es una practica realizada en la universidad, esta pagina trata de peliculas.
 
 #Instalacion de Bootstrap
