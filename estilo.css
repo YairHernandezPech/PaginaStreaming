@@ -16,6 +16,12 @@ img {
     object-fit: cover;
     
     }
+#colornav{
+    color: white;
+}
+#colornav2{
+    color: black;
+}
 /* bs-body-color:#ffffff; en bostrap es para cambiar el color del texto */
 
 
